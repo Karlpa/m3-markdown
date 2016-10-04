@@ -6,7 +6,9 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 
 
-"Test"
+"They don't think it be like it is, but it do"
+Oscar Gamble
+[More info](google.com)
 
 
 
