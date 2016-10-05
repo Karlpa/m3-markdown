@@ -11,7 +11,6 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 #The "say" command
----
 Say converts text inputted into speech, played on the speakers. This command has several uses which are particularly beneficial to the blind or sight diasbled.
 
 	* This allows blind people to hear text read to them.
